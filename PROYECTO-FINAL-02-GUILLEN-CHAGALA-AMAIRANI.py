@@ -149,4 +149,4 @@ while valid == 0:
         paises_demanda('Imports')
         valid = 1
     else:
-        selec = input('Selecciona una consigna válida')
+        selec = input('Selecciona una opcion válida')
